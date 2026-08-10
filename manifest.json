@@ -1,0 +1,15 @@
+{
+  "name": "SSC রেজাল্ট ২০২৬",
+  "short_name": "SSC Result 2026",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F4F9FE",
+  "theme_color": "#155DBD",
+  "icons": [
+    {
+      "src": "ic_launcher.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
